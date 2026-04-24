@@ -5,7 +5,7 @@ import Inspector from 'unplugin-vue-dev-locator/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: './',
+  base: '/qq-pet-ai-assistant/',
   build: {
     sourcemap: 'hidden',
   },
